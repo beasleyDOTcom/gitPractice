@@ -1,2 +1,4 @@
 # gitPractice
-This repository is intended to allow me some risk free tryout style practice using the command terminal. 
+This repository is intended to allow me some risk free tryout style practice using the command terminal.
+## some new STUFF!
+
